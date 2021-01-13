@@ -564,9 +564,9 @@ Self-Service Provisioning is a solution that puts more power into your users fin
 
 This template is intended to provide a starting point to accept requests Teams (via forms, BOTs, adaptive cards, embedded SharePoint sites) into a process of queues, approvals, and notifications. Ultimately the provisioning is performed with minimal interaction by IT.  This fully customizable solution gives IT the power to streamline operations and get the requests out the door accurately and in record time.
 
-[Get it on GitHub]()
+[Get it on GitHub](https://github.com/TheBluLion/SelfService)
 
-![Self Service view](../assets/images/self-service.template.png)
+![Self Service view](../assets/images/self-service-template.png)
 
 ## Staff Check-ins
 
