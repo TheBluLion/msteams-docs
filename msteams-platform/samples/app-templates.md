@@ -558,6 +558,16 @@ To help alleviate this pain, we are happy to bring to you the List Search app te
 
 ![List Search app](../assets/images/list-search-template.png)
 
+## Self-Service Provisioning
+
+Self-Service Provisioning is a solution that puts more power into your users fingertips by enabling features and policies faster while still maintaining tight control over the provisioning process.  This set of assets to deploy into [Power Automate](https://flow.microsoft.com/), [Logic App Service](https://azure.microsoft.com/en-us/services/logic-apps/), and [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/)  allows users to request from a curated list of features, policies, and licenses.  
+
+This template is intended to provide a starting point to accept requests Teams (via forms, BOTs, adaptive cards, embedded SharePoint sites) into a process of queues, approvals, and notifications. Ultimately the provisioning is performed with minimal interaction by IT.  This fully customizable solution gives IT the power to streamline operations and get the requests out the door accurately and in record time.
+
+[Get it on GitHub]()
+
+![Self Service view](../assets/images/self-service.template.png)
+
 ## Staff Check-ins
 
 Staff Check-ins is a [Power Apps](/powerapps/powerapps-overview)-based app that enables oversight communication between your business and field personnel. Staff can easily provide time-critical information and status updates on either a scheduled or ad-hoc basis directly from Teams. The app supports real-time location, photos, and notes as well as reminder notifications and automated workflows.
